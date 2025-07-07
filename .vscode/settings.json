@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "prettier.documentSelectors": ["**/*.astro"],
+  "files.associations": {
+    "*.astro": "astro"
+  },
+  "spellright.language": ["en"],
+  "spellright.documentTypes": ["markdown", "latex", "plaintext", "html"]
+}
