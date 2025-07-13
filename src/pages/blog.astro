@@ -1,5 +1,9 @@
 ---
+import { getCollection } from 'astro:content';
 import '../styles/global.css';
+
+const posts = await getCollection('blog');
+posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
 <html lang="en">
@@ -30,24 +34,35 @@ import '../styles/global.css';
     <main class="container mx-auto px-4 py-10 max-w-3xl">
       <h2 class="text-2xl font-semibold mb-8">Blog</h2>
       <div class="space-y-6">
-        <article class="bg-white rounded-lg shadow p-6">
-          <h3 class="text-xl font-bold mb-2">
-            <a
-              href="/blog/2025-07-06-campaign-kickoff"
-              class="text-green-700 hover:underline">Campaign Kickoff</a
-            >
-          </h3>
-          <time class="text-gray-600 text-sm">Sunday, July 6th, 2025</time>
-          <p class="mt-3 text-gray-700">
-            I am excited to kick off my campaign for City Council. Thank you to
-            all the people who supported me when I ran 2 years ago...
-          </p>
-          <a
-            href="/blog/2025-07-06-campaign-kickoff"
-            class="inline-block mt-3 text-green-700 hover:underline"
-            >Read more →</a
-          >
-        </article>
+        {
+          posts.map(post => (
+            <article class="bg-white rounded-lg shadow p-6">
+              <h3 class="text-xl font-bold mb-2">
+                <a
+                  href={`/blog/${post.slug}`}
+                  class="text-green-700 hover:underline"
+                >
+                  {post.data.title}
+                </a>
+              </h3>
+              <time class="text-gray-600 text-sm">
+                {post.data.pubDate.toLocaleDateString('en-US', {
+                  weekday: 'long',
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+              </time>
+              <p class="mt-3 text-gray-700">{post.data.description}</p>
+              <a
+                href={`/blog/${post.slug}`}
+                class="inline-block mt-3 text-green-700 hover:underline"
+              >
+                Read more →
+              </a>
+            </article>
+          ))
+        }
       </div>
     </main>
     <footer class="bg-green-900 text-white py-4 mt-10 text-center">

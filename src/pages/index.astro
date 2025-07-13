@@ -1,5 +1,10 @@
 ---
+import { getCollection } from 'astro:content';
 import '../styles/global.css';
+
+const posts = await getCollection('blog');
+posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const latestPosts = posts.slice(0, 3); // Show latest 3 posts
 ---
 
 <html lang="en">
@@ -115,19 +120,31 @@ import '../styles/global.css';
         <h2 class="text-2xl font-semibold mb-8 text-center">Latest Updates</h2>
         <div class="bg-white rounded-lg shadow p-6">
           <div class="space-y-4">
-            <article class="border-b border-gray-200 pb-4 last:border-b-0">
-              <h3 class="text-lg font-semibold mb-1">
-                <a
-                  href="/blog/2025-07-06-campaign-kickoff"
-                  class="text-green-700 hover:underline">Campaign Kickoff</a
+            {
+              latestPosts.map((post, index) => (
+                <article
+                  class={`border-b border-gray-200 pb-4 ${index === latestPosts.length - 1 ? 'last:border-b-0' : ''}`}
                 >
-              </h3>
-              <time class="text-gray-600 text-sm">Sunday, July 6th, 2025</time>
-              <p class="mt-2 text-gray-700">
-                I am excited to kick off my campaign for City Council. Thank you
-                to all the people who supported me when I ran 2 years ago...
-              </p>
-            </article>
+                  <h3 class="text-lg font-semibold mb-1">
+                    <a
+                      href={`/blog/${post.slug}`}
+                      class="text-green-700 hover:underline"
+                    >
+                      {post.data.title}
+                    </a>
+                  </h3>
+                  <time class="text-gray-600 text-sm">
+                    {post.data.pubDate.toLocaleDateString('en-US', {
+                      weekday: 'long',
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric',
+                    })}
+                  </time>
+                  <p class="mt-2 text-gray-700">{post.data.description}</p>
+                </article>
+              ))
+            }
           </div>
           <div class="mt-6 text-center">
             <a href="/blog" class="text-green-700 hover:underline font-semibold"
