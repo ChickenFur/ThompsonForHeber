@@ -2,6 +2,7 @@
 title: 'Campaign Kickoff'
 description: 'I am excited to kick off my campaign for City Council. Thank you to all the people who supported me when I ran 2 years ago.'
 pubDate: 2025-07-06T00:00:00.000Z
+heroImage: '/images/Heber Valley Rays.jpg'
 ---
 
 I am excited to kick off my campaign for City Council. Thank you to all the people who supported me when I ran 2 years ago. I am running to work for you to protect open space, create multi use paths and trails, protect our air and water and make Heber City a safer and better place today and for future generations.
