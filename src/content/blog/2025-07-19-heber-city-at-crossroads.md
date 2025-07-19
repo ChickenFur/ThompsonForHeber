@@ -35,7 +35,7 @@ I love some of his principles and I think they apply to Heber.
 1. **Preserve nature and heritage** - I am advocating for an open space bond and changing our zoning to match our general plan.
 2. **Mixed Use** - Mixed income, and groups with commercial and residential in our downtown area will lead to a thriving space
 3. **Walkable** - better intersection designs, multi use paths connecting across the valley, pedestrian path connecting main street park to city hall.
-4. **Bikeable** - This is an efficient way to get around this is a decision, places that get more snow than us manage to bike all winter long.
+4. **Bikeable** - This is an efficient way to get around. Places that get more snow than us manage to bike all winter long.
 5. **Road Network** - Our town should be built for the people that live in them, not just cars. I love the 1 way only street on 200 south that is closed off during Thursday's market on main. That's a great start, are there other streets we want to make safer for our kids to ride on and through?
 6. **Transit** - we need express buses from the Provo airport through Heber to Park City and the SLC Airport running multiple times per day.
 
