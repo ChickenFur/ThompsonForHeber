@@ -28,7 +28,7 @@ Sprawl with low density, and isolating people. Segregate them into economic encl
 
 ## What makes a city a great place:
 
-Interactions and the community that leaves here.
+Interactions and the community that lives here.
 
 I love some of his principles and I think they apply to Heber.
 
