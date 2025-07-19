@@ -46,6 +46,7 @@ Another great resource to learn about city design and what works and what doesn'
 This Strong Town video on bad street design is super informative and helps explain some of what's wrong with Heber's streets.
 
 **Why Bad Street Design is Both Costly and Deadly**
+[bad street design](https://www.youtube.com/watch?v=DyDRZjgiraY)
 
 We need to design side streets so that people slow down, and pay attention. Dutch style intersections, painted bike lines, better sidewalks, bulb outs and more! We need to create spaces where it is uncomfortable for people to drive fast and then they will slow down.
 
