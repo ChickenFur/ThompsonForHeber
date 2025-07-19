@@ -2,22 +2,22 @@
 title: 'What a great place to live!'
 description: "Had a great ride this weekend on the Jordanelle Ridge! This is exactly why I'm running for city council - to help preserve and expand opportunities like this for everyone in Heber Valley."
 pubDate: 2025-07-12T00:00:00.000Z
-heroImage: '/images/bikeride1.HEIC'
+heroImage: '/images/bikeride1.jpg'
 ---
 
 Had a great ride this weekend on the Jordanelle Ridge! This is exactly why I'm running for city council - to help preserve and expand opportunities like this for everyone in Heber Valley.
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 my-8">
   <div class="relative overflow-hidden rounded-xl shadow-lg border border-gray-200 bg-white aspect-[4/3]">
-    <img src="/images/bikeride1.HEIC" alt="Bike ride on Jordanelle Ridge - View 1" class="w-full h-full object-cover transition-transform duration-300 hover:scale-105" />
+    <img src="/images/bikeride1.jpg" alt="Bike ride on Jordanelle Ridge - View 1" class="w-full h-full object-cover transition-transform duration-300 hover:scale-105" />
     <div class="absolute inset-0 bg-gradient-to-t from-black/10 to-transparent"></div>
   </div>
   <div class="relative overflow-hidden rounded-xl shadow-lg border border-gray-200 bg-white aspect-[4/3]">
-    <img src="/images/bikeride2.HEIC" alt="Bike ride on Jordanelle Ridge - View 2" class="w-full h-full object-cover transition-transform duration-300 hover:scale-105" />
+    <img src="/images/bikeride2.jpg" alt="Bike ride on Jordanelle Ridge - View 2" class="w-full h-full object-cover transition-transform duration-300 hover:scale-105" />
     <div class="absolute inset-0 bg-gradient-to-t from-black/10 to-transparent"></div>
   </div>
   <div class="relative overflow-hidden rounded-xl shadow-lg border border-gray-200 bg-white aspect-[4/3]">
-    <img src="/images/bikeride3.HEIC" alt="Bike ride on Jordanelle Ridge - View 3" class="w-full h-full object-cover transition-transform duration-300 hover:scale-105" />
+    <img src="/images/bikeride3.jpg" alt="Bike ride on Jordanelle Ridge - View 3" class="w-full h-full object-cover transition-transform duration-300 hover:scale-105" />
     <div class="absolute inset-0 bg-gradient-to-t from-black/10 to-transparent"></div>
   </div>
 </div>
