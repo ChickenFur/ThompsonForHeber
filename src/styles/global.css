@@ -1,1 +1,11 @@
-@import "tailwindcss";
+@import 'tailwindcss';
+
+/* Custom link styles for prose content */
+.prose a {
+  color: #2563eb !important; /* text-blue-600 */
+  text-decoration: underline;
+}
+
+.prose a:hover {
+  color: #1d4ed8 !important; /* text-blue-700 */
+}
