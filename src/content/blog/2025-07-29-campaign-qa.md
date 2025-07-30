@@ -12,9 +12,13 @@ Thanks to Jade Holmes from the Wasatch County Politics Facebook Group for emaili
 
 **I have a flexible schedule as a software engineer and part time ski instructor. I will handle negative impacts with curiosity, positivity, kindness and integrity.**
 
+---
+
 ## 2. How many of the past meetings have you attended, whether already elected or just as an involved citizen? If you don't attend in person, do you watch recordings, read minutes, or do anything else to stay informed?
 
 **I have attended several of the meetings this last year over zoom. I also like to read the meeting notes and find KPCW a good resource. You can hear me make several public comments about the new cell tower where I advocated no exemptions or changes and to keep the cap of 35 feet for a cell tower. I also have made public comments of a new annexation asking about where their requirement was for a bike lane among other public comments.**
+
+---
 
 ## 3. Can you give an example of a decision made by past city council members or mayors that you would have handled differently, what would you have done?
 
@@ -39,6 +43,8 @@ Ranging from only 10% to up to 45%
 
 **We could set ordinances and zones so that annexations could come into the city actually match our general plan.**
 
+---
+
 ## 4. How will you unite our divided community and work together with our citizens? What can you do to encourage, respect, and participate in community involvement, civil dialogue, and a broad range of communication? How much influence does the community's opinion have on you, vs your own personal beliefs or goals? How and where will you reach out to keep citizens informed of what is happening and why? How will you work with other people that you may not get along with or see things differently?
 
 **If I am elected I will be working for you. On my website you can see my email and google voice number which forwards directly to my cell phone.**
@@ -49,19 +55,27 @@ Ranging from only 10% to up to 45%
 
 **Working with others that I disagree with requires listening, a willingness to learn compromise and sometimes just agreeing to disagree if we reach an impasse. I have found that treating each person with respect and dignity opens up more options and possible working together in the future to achieve common goals.**
 
+---
+
 ## 5. Do you have experience in development? If so, is this experience going to help you be a better candidate or will it interfere with your ability to be neutral and unbiased? Have you/will you recuse yourself for certain types of decisions, describe?
 
 **I do not have experience in development and no conflicts of interest there.**
 
+---
+
 ## 6. What is your opinion, or position, on annexing further to the east (ie, Highlands and SITLA property), or any other additional annexations going forward?
 
 **We should work with Wasatch County and follow Summit county's example of buying the 910 ranch and creating 8,000 acres of public park and open space. Imagine how great that would be for our county and city!**
+
+---
 
 ## 7. How would you propose adjusting expenses, revenue, and the overall budget to honor the tax payer's dollar while providing necessary services?
 
 **Zero based budgeting, lets start from first principles and identify places we can cut waste and save money for future generations.**
 
 **Sometimes this involves spending more money today that will create an investment that will pay off years or generations later.**
+
+---
 
 ## 8. Many feel a bypass is a necessary solution to traffic, that Main should be a walking/shopping type of street with a historic feel. Others feel a bypass will divert revenue away from Main St business owners and ruin the neighborhoods the bypass will run through, and that truck traffic isn't a relevant enough portion of the traffic for a bypass to be an improvement. What are your thoughts on traffic and the bypass, what role should the city have, knowing some of it is in UDOT's hands?
 
@@ -70,6 +84,8 @@ Ranging from only 10% to up to 45%
 **That said, we don't need 2 freeways going north in our valley and I would advocate for Alternative A.**
 
 **I would also point out that building more roads and adding more lanes has time and again shown to create more traffic. We could move more people more efficiently by bringing back the trains that used to connect our cities. While we wait for more federal and state funding for that Summit and Wasatch counties should partner to provide even more regular and reliable bus service. We need an express route going from the Provo Airport to Heber, to Park City, to the SLC Airport.**
+
+---
 
 ## 9. How will you balance housing needs between single-family home affordable housing, high density apartments, and larger properties?
 
@@ -102,11 +118,15 @@ Asking how would you like this island to be developed, showing an island with 10
 
 **Unfortunately our county and city councils have decided to do both, urban sprawl, more and more roads and taller buildings.**
 
+---
+
 ## 10. What is your position on Airbnb regulations?
 
 **People who live at their primary residence should be allowed to air bnb part or all of their home. It is their property and should be allowed and is allowed for up to 6 months out of year under the current code.**
 
 **The city currently only allows air bnb at the primary residence, seems fair to me. We don't want our houses being bought up by corporations and we don't want our neighborhoods be turned into short term rentals.**
+
+---
 
 ## 11. What is your opinion or how would you have voted on the latest approval of the Views Development? Here is the link to the agenda, it is the Views on Main MDA item.
 
@@ -124,6 +144,8 @@ https://hebercityut.portal.civicclerk.com/event/215/files/agenda/982
 
 This article on KPCW shows a rendering of it https://www.kpcw.org/heber-city/2025-02-20/heber-leaders-discuss-traffic-flow-around-planned-main-street-condo-hotel
 
+---
+
 ## 12. Are you familiar with 704NoMore.org? It is an organization that is working to restore the power to the towns/cities and residents from cell tower companies. What is your stance on cell phone towers?
 
 **I am not familiar with 704NoMore.org. I took a brief glance at the website.**
@@ -131,6 +153,8 @@ This article on KPCW shows a rendering of it https://www.kpcw.org/heber-city/202
 **I believe that local towns should have local control.**
 
 **I spoke out at the recent city council meeting where the company was asking for an exception so they could build a 70 ft tower. We should not make height exceptions, keep it at 35 please.**
+
+---
 
 ## 13. How do you feel about C Street, Main Street Redevelopment, CRA, etc.?
 
