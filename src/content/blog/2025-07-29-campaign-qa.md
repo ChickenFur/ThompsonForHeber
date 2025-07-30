@@ -12,11 +12,15 @@ Thanks to Jade Holmes from the Wasatch County Politics Facebook Group for emaili
 
 **I have a flexible schedule as a software engineer and part time ski instructor. I will handle negative impacts with curiosity, positivity, kindness and integrity.**
 
+<br>
+
 ---
 
 ## 2. How many of the past meetings have you attended, whether already elected or just as an involved citizen? If you don't attend in person, do you watch recordings, read minutes, or do anything else to stay informed?
 
 **I have attended several of the meetings this last year over zoom. I also like to read the meeting notes and find KPCW a good resource. You can hear me make several public comments about the new cell tower where I advocated no exemptions or changes and to keep the cap of 35 feet for a cell tower. I also have made public comments of a new annexation asking about where their requirement was for a bike lane among other public comments.**
+
+<br>
 
 ---
 
@@ -43,6 +47,8 @@ Ranging from only 10% to up to 45%
 
 **We could set ordinances and zones so that annexations could come into the city actually match our general plan.**
 
+<br>
+
 ---
 
 ## 4. How will you unite our divided community and work together with our citizens? What can you do to encourage, respect, and participate in community involvement, civil dialogue, and a broad range of communication? How much influence does the community's opinion have on you, vs your own personal beliefs or goals? How and where will you reach out to keep citizens informed of what is happening and why? How will you work with other people that you may not get along with or see things differently?
@@ -55,17 +61,23 @@ Ranging from only 10% to up to 45%
 
 **Working with others that I disagree with requires listening, a willingness to learn compromise and sometimes just agreeing to disagree if we reach an impasse. I have found that treating each person with respect and dignity opens up more options and possible working together in the future to achieve common goals.**
 
+<br>
+
 ---
 
 ## 5. Do you have experience in development? If so, is this experience going to help you be a better candidate or will it interfere with your ability to be neutral and unbiased? Have you/will you recuse yourself for certain types of decisions, describe?
 
 **I do not have experience in development and no conflicts of interest there.**
 
+<br>
+
 ---
 
 ## 6. What is your opinion, or position, on annexing further to the east (ie, Highlands and SITLA property), or any other additional annexations going forward?
 
 **We should work with Wasatch County and follow Summit county's example of buying the 910 ranch and creating 8,000 acres of public park and open space. Imagine how great that would be for our county and city!**
+
+<br>
 
 ---
 
@@ -74,6 +86,8 @@ Ranging from only 10% to up to 45%
 **Zero based budgeting, lets start from first principles and identify places we can cut waste and save money for future generations.**
 
 **Sometimes this involves spending more money today that will create an investment that will pay off years or generations later.**
+
+<br>
 
 ---
 
@@ -84,6 +98,8 @@ Ranging from only 10% to up to 45%
 **That said, we don't need 2 freeways going north in our valley and I would advocate for Alternative A.**
 
 **I would also point out that building more roads and adding more lanes has time and again shown to create more traffic. We could move more people more efficiently by bringing back the trains that used to connect our cities. While we wait for more federal and state funding for that Summit and Wasatch counties should partner to provide even more regular and reliable bus service. We need an express route going from the Provo Airport to Heber, to Park City, to the SLC Airport.**
+
+<br>
 
 ---
 
@@ -118,6 +134,8 @@ Asking how would you like this island to be developed, showing an island with 10
 
 **Unfortunately our county and city councils have decided to do both, urban sprawl, more and more roads and taller buildings.**
 
+<br>
+
 ---
 
 ## 10. What is your position on Airbnb regulations?
@@ -125,6 +143,8 @@ Asking how would you like this island to be developed, showing an island with 10
 **People who live at their primary residence should be allowed to air bnb part or all of their home. It is their property and should be allowed and is allowed for up to 6 months out of year under the current code.**
 
 **The city currently only allows air bnb at the primary residence, seems fair to me. We don't want our houses being bought up by corporations and we don't want our neighborhoods be turned into short term rentals.**
+
+<br>
 
 ---
 
@@ -144,6 +164,8 @@ https://hebercityut.portal.civicclerk.com/event/215/files/agenda/982
 
 This article on KPCW shows a rendering of it https://www.kpcw.org/heber-city/2025-02-20/heber-leaders-discuss-traffic-flow-around-planned-main-street-condo-hotel
 
+<br>
+
 ---
 
 ## 12. Are you familiar with 704NoMore.org? It is an organization that is working to restore the power to the towns/cities and residents from cell tower companies. What is your stance on cell phone towers?
@@ -154,6 +176,8 @@ This article on KPCW shows a rendering of it https://www.kpcw.org/heber-city/202
 
 **I spoke out at the recent city council meeting where the company was asking for an exception so they could build a 70 ft tower. We should not make height exceptions, keep it at 35 please.**
 
+<br>
+
 ---
 
 ## 13. How do you feel about C Street, Main Street Redevelopment, CRA, etc.?
@@ -163,6 +187,8 @@ This article on KPCW shows a rendering of it https://www.kpcw.org/heber-city/202
 **The question is how do we pay for it?**
 
 **I think in this case it might be worth it to borrow the money now to create the space that will create more business and bring more revenue in to help pay it back.**
+
+<br>
 
 Thanks again to Jade Holmes for gathering these questions and sending it out to all the candidates. I really appreciate it.
 
