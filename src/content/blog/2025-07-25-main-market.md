@@ -8,7 +8,11 @@ heroImage: /images/marketseeds.jpg
 
 I had a fantastic time yesterday during the market on main.
 
+<br>
+
 Handed out some seeds for change and had several great discussions. It was great to talk to people and learn what they would change.
+
+<br>
 
 Responses ranged
 Some talked about removing ordinances and regulations, others to slow down the growth, better sidewalks, traffic on main street, affordability, kids can’t afford to stay in the same city wanting more places for teenagers and kids to be able to hang out, dark skies, temple location, too much sprawl and more.
@@ -21,7 +25,11 @@ I really enjoyed listening and talking to everyone. I look forward to continuing
 4. Increasing affordability by making it easier to build an ADU at your primary residence by reducing parking and setback requirements. (its all about supply and demand)
 5. Identify unneeded regulations and remove them
 
+<br>
+
 I certainly don't have all the answers so please reach out to me, I want to hear from you!
+
+<br>
 
 christen.thompson@gmail.com
 
