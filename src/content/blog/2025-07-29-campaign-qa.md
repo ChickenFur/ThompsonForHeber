@@ -152,17 +152,23 @@ Asking how would you like this island to be developed, showing an island with 10
 
 https://hebercityut.portal.civicclerk.com/event/215/files/agenda/982
 
-**The city council keeps giving and giving more and more. First the cap was 4 stories and 55 feet:** https://www.kpcw.org/wasatch-county/2022-10-06/heber-city-sets-four-story-maximum-height-on-future-buildings
+~~**The city council keeps giving and giving more and more. First the cap was 4 stories and 55 feet:** https://www.kpcw.org/wasatch-county/2022-10-06/heber-city-sets-four-story-maximum-height-on-future-buildings~~
 
-> "The maximum future height will be four stories, or 55 feet tall, but only if the developer meets requirements such as providing 10% affordable housing."
+~~> "The maximum future height will be four stories, or 55 feet tall, but only if the developer meets requirements such as providing 10% affordable housing."~~
 
-**Unless they hand out exceptions so they can have a 5 story building like this one.**
+~~**Unless they hand out exceptions so they can have a 5 story building like this one.**~~
 
-**Why set rules if you just change them when someone with enough money asks?**
+~~**Why set rules if you just change them when someone with enough money asks?**~~
 
-**I think 4 stories would have been tall enough, and the height should have been capped at the height of the Heber City Hall. They got the developers to cover 25% of the cost of a light, what about a bus stop, and helping cover the cost of more transportation?**
+~~**I think 4 stories would have been tall enough, and the height should have been capped at the height of the Heber City Hall. They got the developers to cover 25% of the cost of a light, what about a bus stop, and helping cover the cost of more transportation?**~~
 
-This article on KPCW shows a rendering of it https://www.kpcw.org/heber-city/2025-02-20/heber-leaders-discuss-traffic-flow-around-planned-main-street-condo-hotel
+~~This article on KPCW shows a rendering of it https://www.kpcw.org/heber-city/2025-02-20/heber-leaders-discuss-traffic-flow-around-planned-main-street-condo-hotel~~
+
+**Scott Philipps informed me on July 31st that there was a approval of 5 story buildings from the council 10 years ago, which is why this building is approved for 5 stories.**
+
+**The current cap is 3 stories, 4 if you include more affordable housing.**
+
+**I want to thank Scott for taking the time to let me know and I apologize for not having that information before.**
 
 <br>
 
